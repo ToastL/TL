@@ -1,0 +1,12 @@
+int testFunction > int test {
+    int a = 0
+
+    while a < 5 {
+        
+        if a > 4 {
+            print(a)
+        }
+    }
+
+    < a
+}
